@@ -711,8 +711,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.53240395, y: 0.6484947}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -733,8 +733,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5755787, y: 0.6442375}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -755,8 +755,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5324497, y: 0.601017}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -777,8 +777,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5345764, y: 0.6183052}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -799,8 +799,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5159302, y: 0.5173111}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -821,8 +821,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.85791016, y: 0.7663536}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -843,8 +843,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.44647217, y: 0.7145233}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -865,8 +865,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.7247429, y: 0.64346695}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -909,8 +909,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.17214584, y: 0.3442726}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -931,8 +931,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.827858, y: 0.3196869}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -953,8 +953,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5327873, y: 0.32788086}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -975,8 +975,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.16395187, y: 0.3524704}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -997,8 +997,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.79507065, y: 0.40164948}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1019,8 +1019,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.43532562, y: 0.0472641}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1041,8 +1041,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.509243, y: 0.047260284}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1063,8 +1063,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.6293564, y: 0.0472641}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1085,8 +1085,8 @@ TextureImporter:
         y: 992
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5184784, y: 0.06574249}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1701,8 +1701,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.59295654, y: 0.37649918}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1723,8 +1723,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5434017, y: 0.48004532}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1745,8 +1745,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.6080704, y: 0.49108887}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1767,8 +1767,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.58657646, y: 0.43058014}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1789,8 +1789,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5294361, y: 0.5121765}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1811,8 +1811,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.87304306, y: 0.7687912}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1833,8 +1833,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.45674515, y: 0.73802567}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1855,8 +1855,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.70609665, y: 0.6437416}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1899,8 +1899,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.8442497, y: 0.37705994}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1921,8 +1921,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.663929, y: 0.3442726}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1943,8 +1943,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5901642, y: 0.33607864}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1965,8 +1965,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.51639557, y: 0.3196869}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1987,8 +1987,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.44262695, y: 0.29509735}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2009,8 +2009,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5184822, y: 0.10269928}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2031,8 +2031,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.509243, y: 0.09346008}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2053,8 +2053,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4630432, y: 0.17661667}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2075,8 +2075,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000038, y: 0.084220886}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2097,8 +2097,8 @@ TextureImporter:
         y: 976
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.6293678, y: 0.22282028}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2757,8 +2757,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.41360474, y: 0.7050209}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2779,8 +2779,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.37260437, y: 0.74389267}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2801,8 +2801,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.33159828, y: 0.74163437}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2823,8 +2823,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.37038612, y: 0.71569824}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2845,8 +2845,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.53700256, y: 0.43058777}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2867,8 +2867,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.85440445, y: 0.62210083}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2889,8 +2889,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.47872925, y: 0.6419296}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2911,8 +2911,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.7282562, y: 0.6031189}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2934,7 +2934,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 9
-      pivot: {x: 0.5406418, y: 0.23294067}
+      pivot: {x: 0.5235214, y: 0.691555}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2977,8 +2977,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4590187, y: 0.3114891}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2999,8 +2999,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48360825, y: 0.29509735}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3021,8 +3021,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5081978, y: 0.3442726}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3043,8 +3043,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49076462, y: 0.084220886}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3065,8 +3065,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4815216, y: 0.06574249}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3087,8 +3087,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5831604, y: 0.102703094}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3109,8 +3109,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5092392, y: 0.12118149}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3131,8 +3131,8 @@ TextureImporter:
         y: 960
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.518486, y: 0.33369446}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3769,8 +3769,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5368843, y: 0.7049751}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3791,8 +3791,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.58413506, y: 0.74593353}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3813,8 +3813,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5711918, y: 0.758873}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3835,8 +3835,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.52589035, y: 0.73298645}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3857,8 +3857,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.507288, y: 0.6699524}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3879,8 +3879,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.34788132, y: 0.76288223}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3901,8 +3901,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.45677948, y: 0.54244614}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3923,8 +3923,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.41598892, y: 0.7344856}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3960,28 +3960,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_181
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 944
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96d404d5f4620564a9ea9b95bbb752cc
-      internalID: -1361621229
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_182
       rect:
         serializedVersion: 2
@@ -3989,8 +3967,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49173737, y: 0.36779022}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4011,8 +3989,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5277214, y: 0.10269928}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4033,8 +4011,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.6201172, y: 0.11193848}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4055,8 +4033,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.27825546, y: 0.17661667}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4077,8 +4055,8 @@ TextureImporter:
         y: 944
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4815216, y: 0.11193848}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4649,8 +4627,8 @@ TextureImporter:
         y: 928
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5474968, y: 0.19603729}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4671,8 +4649,8 @@ TextureImporter:
         y: 928
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5379982, y: 0.27202988}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4693,8 +4671,8 @@ TextureImporter:
         y: 928
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48100471, y: 0.1770401}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4715,8 +4693,8 @@ TextureImporter:
         y: 928
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.47946167, y: 0.24325562}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4737,8 +4715,8 @@ TextureImporter:
         y: 928
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5102768, y: 0.24325943}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4774,37 +4752,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_220
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 928
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 994d70589bd24d84a97058aeb9a5fc1e
-      internalID: -806572859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_221
       rect:
         serializedVersion: 2
         x: 624
         y: 928
-        width: 16
+        width: 48
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.6576373, y: 0.2336731}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4818,50 +4774,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_222
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 928
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c7da60d41944474bb955a91d293462d
-      internalID: 15356100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_223
-      rect:
-        serializedVersion: 2
-        x: 656
-        y: 928
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f359e3059760ce540b84b523c9fd1059
-      internalID: 212572118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_224
       rect:
         serializedVersion: 2
@@ -4869,8 +4781,8 @@ TextureImporter:
         y: 928
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5184822, y: 0.13042068}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4891,8 +4803,8 @@ TextureImporter:
         y: 928
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.31521225, y: 0.6293564}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5528,9 +5440,9 @@ TextureImporter:
         x: 608
         y: 912
         width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6861572, y: 0.3404363}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6717,8 +6629,8 @@ TextureImporter:
         y: 896
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4999962, y: 0.22895241}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6827,8 +6739,8 @@ TextureImporter:
         y: 896
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3843994, y: 0.43849182}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6849,8 +6761,8 @@ TextureImporter:
         y: 896
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.36027145, y: 0.7172775}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7993,8 +7905,8 @@ TextureImporter:
         y: 880
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.61426544, y: 0.5071869}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8015,8 +7927,8 @@ TextureImporter:
         y: 880
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.71294785, y: 0.3768463}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8866,94 +8778,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_415
-      rect:
-        serializedVersion: 2
-        x: 560
-        y: 864
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f291a6d5575a48345a3c598f7eac7adf
-      internalID: -676120424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_416
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 864
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f0efa5760e635e47a0866ed76780d99
-      internalID: -535920121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_417
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 864
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4606415579df7040b9a05d149aace6f
-      internalID: -529970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_418
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 864
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e474691c0d5fb1047877d8396ce40799
-      internalID: 877984531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_419
       rect:
         serializedVersion: 2
@@ -8961,8 +8785,8 @@ TextureImporter:
         y: 864
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49363327, y: 0.05425644}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8971,50 +8795,6 @@ TextureImporter:
       bones: []
       spriteID: ab5fd8373d087894d9a93cf3f8c9491f
       internalID: 525056767
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_420
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 864
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6f79629b0f433940945deab609a5e3e
-      internalID: -1051637753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_421
-      rect:
-        serializedVersion: 2
-        x: 688
-        y: 864
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33fade0bbd2d5c6429a3e819bb70bfb5
-      internalID: 1408379597
       vertices: []
       indices: 
       edges: []
@@ -9812,94 +9592,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_458
-      rect:
-        serializedVersion: 2
-        x: 560
-        y: 848
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 248ce552554869340837f4e91e8fb451
-      internalID: -153491322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_459
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 848
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9c593aac73516144ead7b24e78e09fe6
-      internalID: -335065821
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_460
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 848
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a21f8ea2b9c98994a82b0885688490c4
-      internalID: 1387464357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_461
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 848
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6de72793bf81e94795f68e19c5c420b
-      internalID: 1068989160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_462
       rect:
         serializedVersion: 2
@@ -9907,8 +9599,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.480896, y: 0.05425644}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -9928,9 +9620,9 @@ TextureImporter:
         x: 640
         y: 848
         width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4808998, y: 0.02878189}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -9944,37 +9636,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_464
-      rect:
-        serializedVersion: 2
-        x: 688
-        y: 848
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc5d046efccd85b4880413504fb915c3
-      internalID: 1049566983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_465
       rect:
         serializedVersion: 2
         x: 704
         y: 848
-        width: 16
+        width: 48
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5048383, y: 0.12993622}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -9988,50 +9658,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_466
-      rect:
-        serializedVersion: 2
-        x: 720
-        y: 848
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa33e7d8da7a872478fb1f5eb49c39cb
-      internalID: 1218043839
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_467
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 848
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1c2780c6d07ed1499a80c391c268a14
-      internalID: 1278421684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_468
       rect:
         serializedVersion: 2
@@ -10039,8 +9665,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000038, y: 0.27616882}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10061,8 +9687,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5086098, y: 0.2589531}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10083,8 +9709,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000038, y: 0.25034332}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10105,8 +9731,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5511322, y: 0.28084564}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10127,8 +9753,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.47808456, y: 0.33198166}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10149,8 +9775,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4853897, y: 0.25162506}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10171,8 +9797,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4853859, y: 0.2589302}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10193,8 +9819,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49269485, y: 0.2589302}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10215,8 +9841,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.52191544, y: 0.29545593}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10237,8 +9863,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.50730515, y: 0.3538971}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10259,8 +9885,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.50730515, y: 0.2735405}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10281,8 +9907,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5803566, y: 0.28084564}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10303,8 +9929,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5949631, y: 0.28084564}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10325,8 +9951,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.50730515, y: 0.31006622}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10347,8 +9973,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30276108}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10369,8 +9995,8 @@ TextureImporter:
         y: 848
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.46347427, y: 0.30275726}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -11050,9 +10676,9 @@ TextureImporter:
         x: 688
         y: 832
         width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4854889, y: 0.27989578}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -12239,8 +11865,8 @@ TextureImporter:
         y: 816
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49245834, y: 0.09285736}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -12261,8 +11887,8 @@ TextureImporter:
         y: 816
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49245834, y: 0.07778168}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -12283,8 +11909,8 @@ TextureImporter:
         y: 816
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.46229935, y: 0.08531952}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -13403,10 +13029,10 @@ TextureImporter:
         serializedVersion: 2
         x: 688
         y: 800
-        width: 16
+        width: 32
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48115158, y: 0.24365234}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -13420,28 +13046,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_622
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 800
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b2f9d007db2c32449f6faf8ce4d01a4
-      internalID: 597132961
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_623
       rect:
         serializedVersion: 2
@@ -13449,8 +13053,8 @@ TextureImporter:
         y: 800
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.44721985, y: 0.31150818}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -13471,8 +13075,8 @@ TextureImporter:
         y: 800
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.47737885, y: 0.115478516}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -13493,8 +13097,8 @@ TextureImporter:
         y: 800
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4849167, y: 0.17579651}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -14197,8 +13801,8 @@ TextureImporter:
         y: 784
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000038, y: 0.08995056}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -14857,8 +14461,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4638176, y: 0.29013062}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -14879,8 +14483,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5072365, y: 0.27565384}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -14901,8 +14505,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48552704, y: 0.2539444}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -14923,8 +14527,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48552704, y: 0.26118088}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -14945,8 +14549,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5072365, y: 0.28289413}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -14967,8 +14571,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.52412033, y: 0.08190918}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15055,8 +14659,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.47580338, y: 0.31850243}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15077,8 +14681,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5080719, y: 0.32253456}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15099,8 +14703,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5080719, y: 0.33463478}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15143,8 +14747,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000038, y: 0.27010155}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15165,8 +14769,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4758072, y: 0.5484009}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15187,8 +14791,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000038, y: 0.33866882}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15209,8 +14813,8 @@ TextureImporter:
         y: 768
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000038, y: 0.30236816}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15561,8 +15165,8 @@ TextureImporter:
         y: 752
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.45430756, y: 0.3629303}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15583,8 +15187,8 @@ TextureImporter:
         y: 752
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5085983, y: 0.22476959}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15605,8 +15209,8 @@ TextureImporter:
         y: 752
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.53440094, y: 0.17316437}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15627,8 +15231,8 @@ TextureImporter:
         y: 752
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.51719666, y: 0.22476959}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15649,8 +15253,8 @@ TextureImporter:
         y: 752
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.54299927, y: 0.20756531}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -15671,8 +15275,8 @@ TextureImporter:
         y: 752
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5085983, y: 0.10435867}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16111,8 +15715,8 @@ TextureImporter:
         y: 736
         width: 32
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5415058, y: 0.26018143}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16121,72 +15725,6 @@ TextureImporter:
       bones: []
       spriteID: 7fdb514b5a5f1e64bad98e03cdcfb87e
       internalID: -1296847867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_769
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 736
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 150fb276d43f6ac4bb376f1dc37ce4ba
-      internalID: -231225709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_770
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 736
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74b377e7a03b14a4a903b79d3c53c27d
-      internalID: 1365438808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_771
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 736
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 586f278a83d514241abcb5217761830c
-      internalID: -642897085
       vertices: []
       indices: 
       edges: []
@@ -16242,7 +15780,7 @@ TextureImporter:
         x: 720
         y: 736
         width: 16
-        height: 288
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -16331,8 +15869,8 @@ TextureImporter:
         y: 736
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.51613617, y: 0.33463478}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16353,8 +15891,8 @@ TextureImporter:
         y: 736
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.53227234, y: 0.31446838}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16375,8 +15913,8 @@ TextureImporter:
         y: 736
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48387146, y: 0.294302}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16397,8 +15935,8 @@ TextureImporter:
         y: 736
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.51613617, y: 0.31446838}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16419,8 +15957,8 @@ TextureImporter:
         y: 736
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5080719, y: 0.29833412}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16437,12 +15975,12 @@ TextureImporter:
       name: spr_tileset_sunnysideworld_16px_783
       rect:
         serializedVersion: 2
-        x: 896
+        x: 895
         y: 736
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.6129341, y: 0.29833412}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16463,8 +16001,8 @@ TextureImporter:
         y: 736
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48386765, y: 0.30236816}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16485,8 +16023,8 @@ TextureImporter:
         y: 736
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4758072, y: 0.30236816}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16507,8 +16045,8 @@ TextureImporter:
         y: 736
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49193573, y: 0.31850052}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -16529,8 +16067,8 @@ TextureImporter:
         y: 736
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.52420425, y: 0.33866882}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -17255,8 +16793,8 @@ TextureImporter:
         y: 720
         width: 32
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.41698647, y: 0.24173737}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -17275,10 +16813,10 @@ TextureImporter:
         serializedVersion: 2
         x: 624
         y: 720
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4889927, y: 0.18846893}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -17287,116 +16825,6 @@ TextureImporter:
       bones: []
       spriteID: 919a9fa1645e50d44b0081279e1ecb4e
       internalID: 22716702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_823
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 720
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e91870749ecde145973f74c2e819a54
-      internalID: 368779288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_824
-      rect:
-        serializedVersion: 2
-        x: 656
-        y: 720
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e0898cdd15ac1040b97db39f01a6ae5
-      internalID: -1016285982
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_825
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 720
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 21d8a60786d0d054785992a0b79b57c8
-      internalID: 1538073218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_826
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 720
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 29a4791de42905c45b45f6adafa9c56b
-      internalID: -264971881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_827
-      rect:
-        serializedVersion: 2
-        x: 720
-        y: 720
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46cce2e342c90b54ebfd27266d547678
-      internalID: 1814603936
       vertices: []
       indices: 
       edges: []
@@ -18018,94 +17446,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_860
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 704
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b926f5f14ae8454f9a48862b21f5636
-      internalID: 2138681613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_861
-      rect:
-        serializedVersion: 2
-        x: 720
-        y: 704
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 67f04f05287f0c548bb968d3b410c9df
-      internalID: -520879569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_862
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 704
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1178448ba5757d249852ebc8d61a54d9
-      internalID: -709309113
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_863
-      rect:
-        serializedVersion: 2
-        x: 752
-        y: 704
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 81f0627d4ffd5574eb535d2dc6ad1ea2
-      internalID: -234409450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_864
       rect:
         serializedVersion: 2
@@ -18113,8 +17453,8 @@ TextureImporter:
         y: 704
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5105438, y: 0.2471199}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -18135,8 +17475,8 @@ TextureImporter:
         y: 704
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.55858994, y: 0.32230377}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -18817,8 +18157,8 @@ TextureImporter:
         y: 688
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15411186}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -18839,8 +18179,8 @@ TextureImporter:
         y: 688
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22748184}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -18854,94 +18194,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_903
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 688
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7527d65f4f1baa489f276421c5ea567
-      internalID: 1141044421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_904
-      rect:
-        serializedVersion: 2
-        x: 720
-        y: 688
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b833fd7c54965f24fb6ef187204ea955
-      internalID: -134826405
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_905
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 688
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5c03c12957a72046aa018ce51851809
-      internalID: 1107926557
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_906
-      rect:
-        serializedVersion: 2
-        x: 752
-        y: 688
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d00fe273e117034daef1d5d45e3e60d
-      internalID: -1621192474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_907
       rect:
         serializedVersion: 2
@@ -18949,8 +18201,8 @@ TextureImporter:
         y: 688
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5172539, y: 0.2835846}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -18971,8 +18223,8 @@ TextureImporter:
         y: 688
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49451447, y: 0.48059273}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -19697,8 +18949,8 @@ TextureImporter:
         y: 672
         width: 32
         height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5039635, y: 0.23041153}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -19717,10 +18969,10 @@ TextureImporter:
         serializedVersion: 2
         x: 704
         y: 672
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50556564, y: 0.11324406}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -19734,37 +18986,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_947
-      rect:
-        serializedVersion: 2
-        x: 720
-        y: 672
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3ce568ae14c8fe468f787d30ab0f842
-      internalID: -2003643111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_948
       rect:
         serializedVersion: 2
         x: 736
         y: 672
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.52226067, y: 0.14014053}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -19773,28 +19003,6 @@ TextureImporter:
       bones: []
       spriteID: 16c7e4958ab402943ba9912ece2e172e
       internalID: -527393946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_949
-      rect:
-        serializedVersion: 2
-        x: 752
-        y: 672
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 194a367a0a8a874488b07e85599961af
-      internalID: 799175176
       vertices: []
       indices: 
       edges: []
@@ -20357,8 +19565,8 @@ TextureImporter:
         y: 656
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000038, y: 0.6858902}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -20379,8 +19587,8 @@ TextureImporter:
         y: 656
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4999981, y: 0.19768143}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -20401,8 +19609,8 @@ TextureImporter:
         y: 656
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5107956, y: 0.17068863}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -20423,8 +19631,8 @@ TextureImporter:
         y: 656
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5107937, y: 0.17068863}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -20445,8 +19653,8 @@ TextureImporter:
         y: 656
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4676056, y: 0.26246262}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -21501,8 +20709,8 @@ TextureImporter:
         y: 624
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5042, y: 0.18899918}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -21523,8 +20731,8 @@ TextureImporter:
         y: 624
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4957962, y: 0.18479729}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -21545,8 +20753,8 @@ TextureImporter:
         y: 624
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4957962, y: 0.1763916}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -21567,8 +20775,8 @@ TextureImporter:
         y: 624
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.45796967, y: 0.25624084}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -22865,8 +22073,8 @@ TextureImporter:
         y: 592
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4915943, y: 0.1721878}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -22887,8 +22095,8 @@ TextureImporter:
         y: 592
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4999981, y: 0.18479729}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -22909,8 +22117,8 @@ TextureImporter:
         y: 592
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4957962, y: 0.1721859}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -22931,8 +22139,8 @@ TextureImporter:
         y: 592
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48318863, y: 0.23942947}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -24185,8 +23393,8 @@ TextureImporter:
         y: 560
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49068832, y: 0.17407608}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -24207,8 +23415,8 @@ TextureImporter:
         y: 560
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49069023, y: 0.1880436}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -24229,8 +23437,8 @@ TextureImporter:
         y: 560
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49534416, y: 0.17407608}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -24251,8 +23459,8 @@ TextureImporter:
         y: 560
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.51862717, y: 0.23926163}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -25571,8 +24779,8 @@ TextureImporter:
         y: 528
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48388672, y: 0.0568161}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -25593,8 +24801,8 @@ TextureImporter:
         y: 528
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.50805664, y: 0.0366745}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -25615,8 +24823,8 @@ TextureImporter:
         y: 528
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04070282}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -25637,8 +24845,8 @@ TextureImporter:
         y: 528
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49194336, y: 0.016529083}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -25659,8 +24867,8 @@ TextureImporter:
         y: 528
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.50741196, y: 0.39627838}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -25703,8 +24911,8 @@ TextureImporter:
         y: 528
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49534607, y: 0.18338776}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -25725,8 +24933,8 @@ TextureImporter:
         y: 528
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49069023, y: 0.1880436}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -25747,8 +24955,8 @@ TextureImporter:
         y: 528
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000019, y: 0.16942024}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -25769,8 +24977,8 @@ TextureImporter:
         y: 528
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000038, y: 0.30444336}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -26759,8 +25967,8 @@ TextureImporter:
         y: 496
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09184456}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -26781,8 +25989,8 @@ TextureImporter:
         y: 496
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.45918274, y: 0.059192657}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -26803,8 +26011,8 @@ TextureImporter:
         y: 496
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.46735, y: 0.042865753}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -26825,8 +26033,8 @@ TextureImporter:
         y: 496
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.54081726, y: 0.051029205}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -26847,8 +26055,8 @@ TextureImporter:
         y: 496
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49183655, y: 0.051029205}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -26869,8 +26077,8 @@ TextureImporter:
         y: 496
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5816307, y: 0.17347527}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -26891,8 +26099,8 @@ TextureImporter:
         y: 496
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.54081726, y: 0.059192657}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -26913,8 +26121,8 @@ TextureImporter:
         y: 496
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.589798, y: 0.0673542}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -26935,8 +26143,8 @@ TextureImporter:
         y: 496
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.55714417, y: 0.24694443}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -27507,8 +26715,8 @@ TextureImporter:
         y: 480
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.36122894, y: 0.116334915}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -27529,8 +26737,8 @@ TextureImporter:
         y: 480
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.36122894, y: 0.14898682}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -27551,8 +26759,8 @@ TextureImporter:
         y: 480
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.52449036, y: 0.18980217}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -27573,8 +26781,8 @@ TextureImporter:
         y: 480
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18980217}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28057,8 +27265,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48419952, y: 0.14441872}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28079,8 +27287,8 @@ TextureImporter:
         y: 464
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.2866516, y: 0.13651752}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28101,8 +27309,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49534225, y: 0.35775185}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28123,8 +27331,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5139961, y: 0.36241627}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28145,8 +27353,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.46269608, y: 0.36241627}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28167,8 +27375,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5046692, y: 0.3554201}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28189,8 +27397,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.35542297, y: 0.36707973}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28211,8 +27419,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49067688, y: 0.35775185}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28233,8 +27441,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3647499, y: 0.35775185}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28255,8 +27463,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.40643692, y: 0.3562708}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28277,8 +27485,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.32744217, y: 0.36241627}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28299,8 +27507,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.6877556, y: 0.14898682}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28321,8 +27529,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.6959152, y: 0.22245407}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28365,8 +27573,8 @@ TextureImporter:
         y: 464
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49184036, y: 0.24694443}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -28805,8 +28013,8 @@ TextureImporter:
         y: 448
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4921837, y: 0.04271698}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -29465,8 +28673,8 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.61725235, y: 0.32802963}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -30140,72 +29348,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1510
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 416
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba539ee423148464ebe16cbe515bffec
-      internalID: 1552673294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1511
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 416
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66213e48c3a6fd54dbffae175b2419cd
-      internalID: -1292522914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1512
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 416
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 525a9299c3f8bd44282ce75230750965
-      internalID: 1391591420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_1513
       rect:
         serializedVersion: 2
@@ -30367,8 +29509,8 @@ TextureImporter:
         y: 416
         width: 48
         height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5258077, y: 0.23848851}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -30695,10 +29837,10 @@ TextureImporter:
         serializedVersion: 2
         x: 592
         y: 400
-        width: 16
+        width: 48
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48697153, y: 0.30945587}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -30712,50 +29854,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1538
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 400
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a57b2a6bb6b055e45b0b70d8db9ccc84
-      internalID: 1023944685
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1539
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 400
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56a86fbcd66b78e47bfba3030460ffea
-      internalID: 329100591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_tileset_sunnysideworld_16px_1540
       rect:
         serializedVersion: 2
@@ -30763,8 +29861,8 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.8908386, y: 0.20686913}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -30785,8 +29883,8 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5078163, y: 0.18732834}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -30807,8 +29905,8 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.10134125, y: 0.19905281}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -31157,10 +30255,10 @@ TextureImporter:
         serializedVersion: 2
         x: 592
         y: 384
-        width: 16
+        width: 48
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.50315094, y: 0.11236572}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -31169,94 +30267,6 @@ TextureImporter:
       bones: []
       spriteID: 43115b05a1801f348b8028d01d64eab4
       internalID: 1761228631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1559
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 384
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ca3b90c1c5e4d94fa902b6afcd47706
-      internalID: -120780939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1560
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 384
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee6fa1119f98d254cbb29c4365737884
-      internalID: -1554806715
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1561
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 368
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a13b07d096f923747921b70f2b63d877
-      internalID: 1426623098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1562
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 368
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1846514a2821f8e46875cd5067e949f6
-      internalID: 70320503
       vertices: []
       indices: 
       edges: []
@@ -31685,10 +30695,10 @@ TextureImporter:
         serializedVersion: 2
         x: 592
         y: 352
-        width: 16
+        width: 48
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08400154}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -31697,50 +30707,6 @@ TextureImporter:
       bones: []
       spriteID: c9cb098512ec4944c966ac36da1723c9
       internalID: -812462372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1583
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 352
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7dcd73638dd879040b0779979ee8f0ed
-      internalID: -1276395630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1584
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 352
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 581b57b2e8ebd5246b7093f97cf85415
-      internalID: -728250762
       vertices: []
       indices: 
       edges: []
@@ -32093,72 +31059,6 @@ TextureImporter:
       bones: []
       spriteID: 6465087f7153a9a40a685b252be0b12c
       internalID: 1091772307
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1604
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 336
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be6af8e26f50c2648806d631254cb6d3
-      internalID: -1783064133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1605
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 336
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 725d46d141cc97749b9319c74f1d3560
-      internalID: -2014118106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_tileset_sunnysideworld_16px_1606
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 336
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e171a48fe20577e48992003aaedac687
-      internalID: -1102871238
       vertices: []
       indices: 
       edges: []
@@ -32897,8 +31797,8 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.46649933, y: 0.20686913}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -32919,8 +31819,8 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.30383682, y: 0.1485424}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -33447,8 +32347,8 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4754753, y: 0.21393013}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -33469,8 +32369,8 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49162292, y: 0.30737305}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -33491,8 +32391,8 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.1567154, y: 0.19758415}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -33975,8 +32875,8 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.27931595, y: 0.18123817}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -34503,8 +33403,8 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.26296997, y: 0.1567173}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -34679,8 +33579,8 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.18941116, y: 0.1975851}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -34701,8 +33601,8 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.34470367, y: 0.13219643}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -34833,8 +33733,8 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.14854431, y: 0.14037037}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -34855,8 +33755,8 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.16489029, y: 0.16488934}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -34877,8 +33777,8 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.26296997, y: 0.1894083}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
