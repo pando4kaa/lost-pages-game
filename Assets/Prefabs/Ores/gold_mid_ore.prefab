@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 9199343635227440975}
   - component: {fileID: 9198246470687889732}
   - component: {fileID: 7765846022644236535}
+  - component: {fileID: 7162994186771165988}
   m_Layer: 0
   m_Name: gold_mid_ore
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.035550386, y: 0.2224478}
   m_Size: {x: 1.2889848, y: 0.52959645}
   m_Direction: 1
+--- !u!114 &7162994186771165988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3155886934224585949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.3064529, y: 0.5484209, z: 4}
+  m_Center: {x: 0.039024413, y: 0.2320199, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

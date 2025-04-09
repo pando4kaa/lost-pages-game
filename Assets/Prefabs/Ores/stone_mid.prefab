@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8635782497913385245}
   - component: {fileID: 5615947935537797491}
   - component: {fileID: 4183560216720409311}
+  - component: {fileID: 3922613441590271183}
   m_Layer: 0
   m_Name: stone_mid
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.026968384, y: 0.18141514}
   m_Size: {x: 1.4155747, y: 0.48048773}
   m_Direction: 1
+--- !u!114 &3922613441590271183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7285539448732128821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.428158, y: 0.4971342, z: 4}
+  m_Center: {x: 0.03448832, y: 0.17228127, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

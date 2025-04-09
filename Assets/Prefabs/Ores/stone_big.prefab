@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7751027025028194261}
   - component: {fileID: 2230315985850849487}
   - component: {fileID: 7746225213286324440}
+  - component: {fileID: 6453948523048619526}
   m_Layer: 0
   m_Name: stone_big
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.005714327, y: 0.24342492}
   m_Size: {x: 1.4033928, y: 0.57347924}
   m_Direction: 1
+--- !u!114 &6453948523048619526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1305702037854817047}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.4384654, y: 0.5789366, z: 4}
+  m_Center: {x: 0.008263022, y: 0.2521968, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

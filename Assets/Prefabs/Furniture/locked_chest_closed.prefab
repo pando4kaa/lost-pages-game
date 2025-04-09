@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2618686461613021249}
   - component: {fileID: 4103944217408010620}
   - component: {fileID: 3989188543978251490}
+  - component: {fileID: 2261295397763174067}
   m_Layer: 0
   m_Name: locked_chest_closed
   m_TagString: Untagged
@@ -147,3 +148,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 0.43006325}
   m_EdgeRadius: 0
+--- !u!114 &2261295397763174067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3629175439750790464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 0.9996023, y: 0.40925026, z: 4}
+  m_Center: {x: -0.0055356026, y: 0.18070269, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

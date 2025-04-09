@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3502271101081951663}
   - component: {fileID: 6654876480283765423}
   - component: {fileID: 3683086607088707176}
+  - component: {fileID: 3730419370911113567}
   m_Layer: 0
   m_Name: stump2
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.023171956, y: 0.17290838}
   m_Size: {x: 0.8262133, y: 0.5900821}
   m_Direction: 1
+--- !u!114 &3730419370911113567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7086010420420611234}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 0.85381174, y: 0.61625814, z: 4}
+  m_Center: {x: 0.030673742, y: 0.14991546, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

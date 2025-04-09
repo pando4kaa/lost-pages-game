@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1697986488194186477}
   - component: {fileID: 3646138525429966499}
   - component: {fileID: 3366240142347847164}
+  - component: {fileID: 4096705578674737312}
   m_Layer: 0
   m_Name: coal_tiny_ore
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.04575999, y: 0.07218957}
   m_Size: {x: 0.6792428, y: 0.29880774}
   m_Direction: 1
+--- !u!114 &4096705578674737312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5953887460085614761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 0.68573046, y: 0.2883253, z: 4}
+  m_Center: {x: 0.034238577, y: 0.07556486, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

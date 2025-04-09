@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8177477455708408276}
   - component: {fileID: 1844695882622362791}
   - component: {fileID: 2511612086790027524}
+  - component: {fileID: 5565605898402552331}
   m_Layer: 0
   m_Name: gold_big_ore
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.02918688, y: 0.274182}
   m_Size: {x: 1.4084219, y: 0.58970386}
   m_Direction: 1
+--- !u!114 &5565605898402552331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7543719552074000335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.4213351, y: 0.61510754, z: 4}
+  m_Center: {x: 0.022358358, y: 0.2696271, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

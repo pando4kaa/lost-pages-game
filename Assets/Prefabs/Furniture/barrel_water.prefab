@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6658666096717549469}
   - component: {fileID: 8023942449603833391}
   - component: {fileID: 3461775394726323802}
+  - component: {fileID: 6579877306892093810}
   m_Layer: 0
   m_Name: barrel_water
   m_TagString: Untagged
@@ -138,3 +139,19 @@ SortingGroup:
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_SortAtRoot: 0
+--- !u!114 &6579877306892093810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1371026733848004697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 0.6983905, y: 0.44282532, z: 4}
+  m_Center: {x: -0.003611803, y: 0.1640687, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

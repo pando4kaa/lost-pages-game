@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 668577644504283756}
   - component: {fileID: 8504353042164402224}
   - component: {fileID: 1824625733061993651}
+  - component: {fileID: 2908321639312646789}
   m_Layer: 0
   m_Name: diamond_mid_ore
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0000037161428, y: 0.17326239}
   m_Size: {x: 1.3459792, y: 0.42441586}
   m_Direction: 1
+--- !u!114 &2908321639312646789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6466625901418525389}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.3614588, y: 0.40651894, z: 4}
+  m_Center: {x: 0.0041880608, y: 0.16278362, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

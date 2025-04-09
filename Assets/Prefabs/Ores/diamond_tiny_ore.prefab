@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4562639175637541328}
   - component: {fileID: 7248146467646070551}
   - component: {fileID: 7884118762705358562}
+  - component: {fileID: 2709213483142578611}
   m_Layer: 0
   m_Name: diamond_tiny_ore
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.007875989, y: 0.07994335}
   m_Size: {x: 0.61575955, y: 0.26344374}
   m_Direction: 1
+--- !u!114 &2709213483142578611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4608225383717869092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 0.61829567, y: 0.28212166, z: 4}
+  m_Center: {x: 0.008946419, y: 0.07644749, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

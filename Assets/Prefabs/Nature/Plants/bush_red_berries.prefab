@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1032962740401606692}
   - component: {fileID: 7160864650667652104}
   - component: {fileID: 1969882386563470825}
+  - component: {fileID: 6579020700960492999}
   m_Layer: 0
   m_Name: bush_red_berries
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: -0.023701716, y: 0.11985724}
   m_Size: {x: 1.2874974, y: 0.33673093}
   m_Direction: 1
+--- !u!114 &6579020700960492999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6686912669416105384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.3021259, y: 0.39480305, z: 4}
+  m_Center: {x: -0.020594597, y: 0.11958742, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

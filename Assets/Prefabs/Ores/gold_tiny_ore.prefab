@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7465635041189752539}
   - component: {fileID: 8125635173731852904}
   - component: {fileID: 2670121823803386858}
+  - component: {fileID: 5564344044624975461}
   m_Layer: 0
   m_Name: gold_tiny_ore
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: -0.037999775, y: 0.07346429}
   m_Size: {x: 0.6900299, y: 0.28965294}
   m_Direction: 1
+--- !u!114 &5564344044624975461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3304904606698976088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 0.69528055, y: 0.28926086, z: 4}
+  m_Center: {x: -0.04107213, y: 0.07430744, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

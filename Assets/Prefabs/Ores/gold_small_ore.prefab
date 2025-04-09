@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3422639583768577483}
   - component: {fileID: 6393085726071911194}
   - component: {fileID: 6578626074071443184}
+  - component: {fileID: 736456984168206545}
   m_Layer: 0
   m_Name: gold_small_ore
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.004474663, y: 0.18991497}
   m_Size: {x: 1.0229505, y: 0.4402862}
   m_Direction: 1
+--- !u!114 &736456984168206545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7987763209682683810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.0316, y: 0.45794392, z: 4}
+  m_Center: {x: -0.004741907, y: 0.19367456, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

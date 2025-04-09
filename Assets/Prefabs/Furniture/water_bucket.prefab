@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5716889250647489704}
   - component: {fileID: 3202650493169537276}
   - component: {fileID: 5039723715782419694}
+  - component: {fileID: 3144310387151577182}
   m_Layer: 0
   m_Name: water_bucket
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0031073636, y: 0.20253344}
   m_Size: {x: 0.5250935, y: 0.42405006}
   m_Direction: 1
+--- !u!114 &3144310387151577182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6354313884120614535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 0.5042403, y: 0.43131542, z: 4}
+  m_Center: {x: 0.0050810575, y: 0.19327617, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

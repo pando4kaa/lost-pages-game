@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3750155673501921613}
   - component: {fileID: 4146563671919148022}
   - component: {fileID: 4824747369377105441}
+  - component: {fileID: 1844341066783808826}
   m_Layer: 0
   m_Name: coal_mid_ore
   m_TagString: Untagged
@@ -138,3 +139,19 @@ CapsuleCollider2D:
   m_Offset: {x: -0.002782983, y: 0.14926417}
   m_Size: {x: 1.3957847, y: 0.44096684}
   m_Direction: 1
+--- !u!114 &1844341066783808826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8839887420212307509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.4070396, y: 0.47711945, z: 4}
+  m_Center: {x: 0.0050058365, y: 0.1490283, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
