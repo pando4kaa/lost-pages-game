@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7607560591963659256}
   - component: {fileID: 1412391098709593597}
   - component: {fileID: 7530926449890845063}
+  - component: {fileID: 2317498611130946899}
   m_Layer: 0
   m_Name: BushYellowBerries
   m_TagString: Untagged
@@ -138,3 +139,19 @@ SortingGroup:
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_SortAtRoot: 0
+--- !u!114 &2317498611130946899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8907196227740641989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.2474365, y: 0.36024672, z: 4}
+  m_Center: {x: -0.015041351, y: 0.08623883, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
