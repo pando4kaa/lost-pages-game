@@ -2614,11 +2614,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4548734851820249626, guid: 4d96de058930f714b8b70a49192f65d4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.8322847
+      value: 2.7
       objectReference: {fileID: 0}
     - target: {fileID: 4548734851820249626, guid: 4d96de058930f714b8b70a49192f65d4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.391656
+      value: -4.22
       objectReference: {fileID: 0}
     - target: {fileID: 4548734851820249626, guid: 4d96de058930f714b8b70a49192f65d4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2655,14 +2655,6 @@ PrefabInstance:
     - target: {fileID: 5288360314413685160, guid: 4d96de058930f714b8b70a49192f65d4, type: 3}
       propertyPath: m_Name
       value: SlimeZombie
-      objectReference: {fileID: 0}
-    - target: {fileID: 6677980888094241281, guid: 4d96de058930f714b8b70a49192f65d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 9.18
-      objectReference: {fileID: 0}
-    - target: {fileID: 6677980888094241281, guid: 4d96de058930f714b8b70a49192f65d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 3.67
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3024,13 +3016,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2747572767176034912, guid: 9e4cc07520f226a408b854dd01e8b1d7, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 5.29
-      objectReference: {fileID: 0}
-    - target: {fileID: 2747572767176034912, guid: 9e4cc07520f226a408b854dd01e8b1d7, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 3.73
+    - target: {fileID: 735332976128946301, guid: 9e4cc07520f226a408b854dd01e8b1d7, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4688366218301035002, guid: 9e4cc07520f226a408b854dd01e8b1d7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3076,7 +3064,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: SlimeLava
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 220448629453084812, guid: 9e4cc07520f226a408b854dd01e8b1d7, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3207,14 +3196,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slime
       objectReference: {fileID: 0}
-    - target: {fileID: 4190030892814399687, guid: bf9956df86c3eb0448d513e685db291d, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 6.26
-      objectReference: {fileID: 0}
-    - target: {fileID: 4190030892814399687, guid: bf9956df86c3eb0448d513e685db291d, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 3.7
-      objectReference: {fileID: 0}
     - target: {fileID: 6684343129696930757, guid: bf9956df86c3eb0448d513e685db291d, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.8322847
@@ -3255,7 +3236,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3907044521916336302, guid: bf9956df86c3eb0448d513e685db291d, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
