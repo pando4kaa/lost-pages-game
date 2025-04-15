@@ -16,13 +16,7 @@ public class EnemyAI : MonoBehaviour
 
     private enum State
     {
-        Idle,
         Roaming
-    }
-
-    private void Start()
-    {
-        startingPosition = transform.position;
     }
 
     private void Awake()
@@ -37,8 +31,6 @@ public class EnemyAI : MonoBehaviour
         switch (state)
         {
             default:
-            case State.Idle:
-                break;
             case State.Roaming:
                 roamingTime -= Time.deltaTime;
                 if (roamingTime <= 0)
@@ -47,13 +39,12 @@ public class EnemyAI : MonoBehaviour
                     roamingTime = roamingTimerMax;
                 }
                 break;
-
         }
-
     }
 
     private void Roaming()
     {
+        startingPosition = transform.position;
         roamingPosition = GetRoamingPosition();
         navMeshAgent.SetDestination(roamingPosition);
     }
