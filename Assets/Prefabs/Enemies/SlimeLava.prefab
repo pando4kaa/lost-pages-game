@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4688366218301035002}
   - component: {fileID: 220448629453084812}
-  - component: {fileID: 735332976128946301}
+  - component: {fileID: 4614836353990547425}
   - component: {fileID: 7722799142029564740}
   - component: {fileID: 8134348744929205135}
   m_Layer: 0
@@ -152,7 +152,7 @@ Transform:
   m_GameObject: {fileID: 8789409722350399591}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.96, y: -4.391656, z: -0.03318646}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.75, y: 0.75, z: 0.75}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -186,8 +186,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!70 &735332976128946301
-CapsuleCollider2D:
+--- !u!58 &4614836353990547425
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -220,9 +220,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.042658698, y: 0.3558954}
-  m_Size: {x: 0.9971308, y: 0.9067473}
-  m_Direction: 1
+  m_Offset: {x: 0.02929151, y: 0.35150313}
+  m_Radius: 0.52278244
 --- !u!195 &7722799142029564740
 NavMeshAgent:
   m_ObjectHideFlags: 0

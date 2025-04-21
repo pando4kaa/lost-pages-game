@@ -4,6 +4,7 @@ public class Kent : MonoBehaviour
 {
     public static Kent Instance { get; private set; }
     [SerializeField] private float movingSpeed = 5f;
+    Vector2 inputVector;
 
     private Rigidbody2D rb;
     private float minMovingSpeed = 0.1f;
@@ -16,6 +17,11 @@ public class Kent : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
+    private void Update()
+    {
+        inputVector = GameInput.Instance.GetMovementVector();
+    }
+
     private void FixedUpdate()
     {
         HandleMovement();
@@ -23,7 +29,6 @@ public class Kent : MonoBehaviour
 
     private void HandleMovement()
     {
-        Vector2 inputVector = GameInput.Instance.GetMovementVector();
         rb.MovePosition(rb.position + inputVector * (movingSpeed * Time.fixedDeltaTime));
 
         // Зберігаємо напрямок руху, якщо він не нульовий
