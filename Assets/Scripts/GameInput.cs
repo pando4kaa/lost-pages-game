@@ -1,15 +1,24 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
-
+using System;
 public class GameInput : MonoBehaviour
 {
     public static GameInput Instance { get; private set; }
     private KentInputAction kentInputActions;
+    public event EventHandler OnKentAttack;
+
     private void Awake()
     {
         Instance = this;
         kentInputActions = new KentInputAction();
         kentInputActions.Enable();
+
+        kentInputActions.Combat.Attack.started += KentAttack_started;
+    }
+
+    private void KentAttack_started(InputAction.CallbackContext context)
+    {
+        OnKentAttack?.Invoke(this, EventArgs.Empty);
     }
     
     public  Vector2 GetMovementVector()

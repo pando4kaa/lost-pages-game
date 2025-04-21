@@ -10,6 +10,8 @@ public class KentVisual : MonoBehaviour
     [SerializeField] private SpriteRenderer handRenderer;
 
     private const string IS_RUNNING = "IsRunning";
+    private const string TRIGGER_ATTACK = "Attack";
+
 
     private void Awake()
     {
@@ -33,6 +35,11 @@ public class KentVisual : MonoBehaviour
     private void UpdateAnimation()
     {
         animator.SetBool(IS_RUNNING, Kent.Instance.IsRunning());
+    }
+
+    public void PlayAttackAnimation()
+    {
+        animator.SetTrigger(TRIGGER_ATTACK);
     }
 
     private void UpdateFacingDirection()

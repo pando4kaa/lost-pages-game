@@ -10,12 +10,25 @@ public class Kent : MonoBehaviour
     private float minMovingSpeed = 0.1f;
     private bool isRunning = false;
     private Vector2 lastMovementDirection;
+    private KentVisual kentVisual;
 
     private void Awake()
     {
         Instance = this;
         rb = GetComponent<Rigidbody2D>();
+        kentVisual = GetComponentInChildren<KentVisual>();
     }
+
+    private void Start()
+    {
+        GameInput.Instance.OnKentAttack += Kent_OnKentAttack;
+    }
+
+    private void Kent_OnKentAttack(object sender, System.EventArgs e)
+    {
+        kentVisual.PlayAttackAnimation();
+    }
+
 
     private void Update()
     {
