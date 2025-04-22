@@ -1,32 +1,38 @@
 using UnityEngine;
 
+[SelectionBase]
+
 public class Kent : MonoBehaviour
 {
     public static Kent Instance { get; private set; }
-    [SerializeField] private float movingSpeed = 5f;
+    [SerializeField] private float _movingSpeed = 5f;
     Vector2 inputVector;
 
-    private Rigidbody2D rb;
-    private float minMovingSpeed = 0.1f;
-    private bool isRunning = false;
-    private Vector2 lastMovementDirection;
-    private KentVisual kentVisual;
+    private Rigidbody2D _rb;
+    private float _minMovingSpeed = 0.1f;
+    private bool _isRunning = false;
+    private Vector2 _lastMovementDirection;
+    private KentVisual _kentVisual;
+
+    private PolygonCollider2D _polygonCollider;
 
     private void Awake()
     {
         Instance = this;
-        rb = GetComponent<Rigidbody2D>();
-        kentVisual = GetComponentInChildren<KentVisual>();
+        _rb = GetComponent<Rigidbody2D>();
+        _kentVisual = GetComponentInChildren<KentVisual>();
+        _polygonCollider = GetComponent<PolygonCollider2D>();
     }
 
     private void Start()
     {
         GameInput.Instance.OnKentAttack += Kent_OnKentAttack;
+        AttackColliderTurnOff();
     }
 
     private void Kent_OnKentAttack(object sender, System.EventArgs e)
     {
-        kentVisual.PlayAttackAnimation();
+        _kentVisual.PlayAttackAnimation();
     }
 
 
@@ -42,30 +48,40 @@ public class Kent : MonoBehaviour
 
     private void HandleMovement()
     {
-        rb.MovePosition(rb.position + inputVector * (movingSpeed * Time.fixedDeltaTime));
+        _rb.MovePosition(_rb.position + inputVector * (_movingSpeed * Time.fixedDeltaTime));
 
         // Зберігаємо напрямок руху, якщо він не нульовий
         if (inputVector.x != 0)
         {
-            lastMovementDirection = inputVector;
+            _lastMovementDirection = inputVector;
         }
 
-        isRunning = Mathf.Abs(inputVector.x) > minMovingSpeed || 
-                    Mathf.Abs(inputVector.y) > minMovingSpeed;
+        _isRunning = Mathf.Abs(inputVector.x) > _minMovingSpeed ||
+                    Mathf.Abs(inputVector.y) > _minMovingSpeed;
     }
 
     public bool IsRunning()
     {
-        return isRunning;
+        return _isRunning;
     }
 
     public bool IsFacingRight()
     {
-        return lastMovementDirection.x >= 0;
+        return _lastMovementDirection.x >= 0;
     }
 
     public Vector3 GetKentScreenPosition()
     {
         return Camera.main.WorldToScreenPoint(transform.position);
+    }
+
+    public void AttackColliderTurnOff()
+    {
+        _polygonCollider.enabled = false;
+    }
+
+    public void AttackColliderTurnOn()
+    {
+        _polygonCollider.enabled = true;
     }
 }

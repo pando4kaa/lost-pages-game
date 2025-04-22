@@ -4,16 +4,16 @@ using System;
 public class GameInput : MonoBehaviour
 {
     public static GameInput Instance { get; private set; }
-    private KentInputAction kentInputActions;
+    private KentInputAction _kentInputActions;
     public event EventHandler OnKentAttack;
 
     private void Awake()
     {
         Instance = this;
-        kentInputActions = new KentInputAction();
-        kentInputActions.Enable();
+        _kentInputActions = new KentInputAction();
+        _kentInputActions.Enable();
 
-        kentInputActions.Combat.Attack.started += KentAttack_started;
+        _kentInputActions.Combat.Attack.started += KentAttack_started;
     }
 
     private void KentAttack_started(InputAction.CallbackContext context)
@@ -23,7 +23,7 @@ public class GameInput : MonoBehaviour
     
     public  Vector2 GetMovementVector()
     {
-        Vector2 inputVector = kentInputActions.Kent.Move.ReadValue<Vector2>();
+        Vector2 inputVector = _kentInputActions.Kent.Move.ReadValue<Vector2>();
         return inputVector;
     }
 

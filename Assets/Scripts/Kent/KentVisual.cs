@@ -5,9 +5,9 @@ public class KentVisual : MonoBehaviour
     private Animator animator;
 
     [Header("Visual Components")]
-    [SerializeField] private SpriteRenderer bodyRenderer;
-    [SerializeField] private SpriteRenderer hairRenderer;
-    [SerializeField] private SpriteRenderer handRenderer;
+    [SerializeField] private SpriteRenderer _bodyRenderer;
+    [SerializeField] private SpriteRenderer _hairRenderer;
+    [SerializeField] private SpriteRenderer _handRenderer;
 
     private const string IS_RUNNING = "IsRunning";
     private const string TRIGGER_ATTACK = "Attack";
@@ -18,12 +18,12 @@ public class KentVisual : MonoBehaviour
         animator = GetComponent<Animator>();
 
         // Знаходимо рендерери, якщо не призначені в інспекторі
-        if (bodyRenderer == null)
-            bodyRenderer = transform.Find("KentBodyVisual").GetComponent<SpriteRenderer>();
-        if (hairRenderer == null)
-            hairRenderer = transform.Find("KentHairVisual").GetComponent<SpriteRenderer>();
-        if (handRenderer == null)
-            handRenderer = transform.Find("KentHandVisual").GetComponent<SpriteRenderer>();
+        if (_bodyRenderer == null)
+            _bodyRenderer = transform.Find("KentBodyVisual").GetComponent<SpriteRenderer>();
+        if (_hairRenderer == null)
+            _hairRenderer = transform.Find("KentHairVisual").GetComponent<SpriteRenderer>();
+        if (_handRenderer == null)
+            _handRenderer = transform.Find("KentHandVisual").GetComponent<SpriteRenderer>();
     }
     
     private void Update()
@@ -47,8 +47,8 @@ public class KentVisual : MonoBehaviour
         bool shouldFlip = !Kent.Instance.IsFacingRight();
         
         // Фліпаємо всі частини персонажа
-        bodyRenderer.flipX = shouldFlip;
-        hairRenderer.flipX = shouldFlip;
-        handRenderer.flipX = shouldFlip;
+        _bodyRenderer.flipX = shouldFlip;
+        _hairRenderer.flipX = shouldFlip;
+        _handRenderer.flipX = shouldFlip;
     }
 }
