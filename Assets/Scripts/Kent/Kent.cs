@@ -48,16 +48,16 @@ public class Kent : MonoBehaviour
 
     private void HandleMovement()
     {
-        _rb.MovePosition(_rb.position + inputVector * (_movingSpeed * Time.fixedDeltaTime));
+        // Використовуємо Velocity замість MovePosition для більш плавного руху
+        _rb.linearVelocity = inputVector * _movingSpeed;
 
         // Зберігаємо напрямок руху, якщо він не нульовий
-        if (inputVector.x != 0)
+        if (inputVector.magnitude > _minMovingSpeed)
         {
             _lastMovementDirection = inputVector;
         }
 
-        _isRunning = Mathf.Abs(inputVector.x) > _minMovingSpeed ||
-                    Mathf.Abs(inputVector.y) > _minMovingSpeed;
+        _isRunning = inputVector.magnitude > _minMovingSpeed;
     }
 
     public bool IsRunning()
