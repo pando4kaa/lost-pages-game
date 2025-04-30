@@ -19,6 +19,7 @@ public class KentItemCollector : MonoBehaviour
                 bool itemAdded = inventoryController.AddItem(collision.gameObject);
                 if(itemAdded)
                 {
+                    item.PickUp();
                     Destroy(collision.gameObject);
                 }
             }

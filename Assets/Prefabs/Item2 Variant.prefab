@@ -100,6 +100,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 330733161, guid: 46c9ad6ff04ce4547b47676775b6a2d2, type: 3}
+    - target: {fileID: 8339967291386540601, guid: cc3b53122385f7643b1d5911ef7d2a62, type: 3}
+      propertyPath: Name
+      value: Buryak
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

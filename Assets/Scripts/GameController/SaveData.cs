@@ -7,4 +7,6 @@ public class SaveData
     public Vector3 kentPosition;
     public string mapBoundary;
     public List<InventorySaveData> inventorySaveData;
+    public List<InventorySaveData> hotbarSaveData;
+    
 }

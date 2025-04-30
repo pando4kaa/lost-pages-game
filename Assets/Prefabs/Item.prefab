@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 8339967291386540601}
   - component: {fileID: 1317556430075361047}
   - component: {fileID: 8881540908192398541}
+  - component: {fileID: -3566293063615045965}
   m_Layer: 5
   m_Name: Item
   m_TagString: Item
@@ -104,6 +105,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3748e9c637c1536428fb2295c4405413, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  minDropDistance: 2
+  maxDropDistance: 3
 --- !u!114 &8339967291386540601
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117,6 +120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 1
+  Name: Garbuz
 --- !u!212 &1317556430075361047
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -208,3 +212,18 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.5
+--- !u!114 &-3566293063615045965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2574594703945748248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee084bdbdcaf73459b1943724c9e88f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bounceHeight: 0.4
+  bounceDuration: 0.3
+  bounceCount: 3
