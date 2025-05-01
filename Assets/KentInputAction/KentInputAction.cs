@@ -99,6 +99,15 @@ public partial class @KentInputAction: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": true
+                },
+                {
+                    ""name"": ""Interact"",
+                    ""type"": ""Button"",
+                    ""id"": ""617e8f5e-e9eb-466b-b428-a7c36c907f92"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -211,6 +220,17 @@ public partial class @KentInputAction: IInputActionCollection2, IDisposable
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""d71cf398-e9a0-4044-9ff9-5b7e68baed78"",
+                    ""path"": ""<Keyboard>/e"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Interact"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         },
@@ -248,6 +268,7 @@ public partial class @KentInputAction: IInputActionCollection2, IDisposable
         // Kent
         m_Kent = asset.FindActionMap("Kent", throwIfNotFound: true);
         m_Kent_Move = m_Kent.FindAction("Move", throwIfNotFound: true);
+        m_Kent_Interact = m_Kent.FindAction("Interact", throwIfNotFound: true);
         // Combat
         m_Combat = asset.FindActionMap("Combat", throwIfNotFound: true);
         m_Combat_Attack = m_Combat.FindAction("Attack", throwIfNotFound: true);
@@ -333,6 +354,7 @@ public partial class @KentInputAction: IInputActionCollection2, IDisposable
     private readonly InputActionMap m_Kent;
     private List<IKentActions> m_KentActionsCallbackInterfaces = new List<IKentActions>();
     private readonly InputAction m_Kent_Move;
+    private readonly InputAction m_Kent_Interact;
     /// <summary>
     /// Provides access to input actions defined in input action map "Kent".
     /// </summary>
@@ -348,6 +370,10 @@ public partial class @KentInputAction: IInputActionCollection2, IDisposable
         /// Provides access to the underlying input action "Kent/Move".
         /// </summary>
         public InputAction @Move => m_Wrapper.m_Kent_Move;
+        /// <summary>
+        /// Provides access to the underlying input action "Kent/Interact".
+        /// </summary>
+        public InputAction @Interact => m_Wrapper.m_Kent_Interact;
         /// <summary>
         /// Provides access to the underlying input action map instance.
         /// </summary>
@@ -377,6 +403,9 @@ public partial class @KentInputAction: IInputActionCollection2, IDisposable
             @Move.started += instance.OnMove;
             @Move.performed += instance.OnMove;
             @Move.canceled += instance.OnMove;
+            @Interact.started += instance.OnInteract;
+            @Interact.performed += instance.OnInteract;
+            @Interact.canceled += instance.OnInteract;
         }
 
         /// <summary>
@@ -391,6 +420,9 @@ public partial class @KentInputAction: IInputActionCollection2, IDisposable
             @Move.started -= instance.OnMove;
             @Move.performed -= instance.OnMove;
             @Move.canceled -= instance.OnMove;
+            @Interact.started -= instance.OnInteract;
+            @Interact.performed -= instance.OnInteract;
+            @Interact.canceled -= instance.OnInteract;
         }
 
         /// <summary>
@@ -534,6 +566,13 @@ public partial class @KentInputAction: IInputActionCollection2, IDisposable
         /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
         void OnMove(InputAction.CallbackContext context);
+        /// <summary>
+        /// Method invoked when associated input action "Interact" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
+        /// </summary>
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
+        void OnInteract(InputAction.CallbackContext context);
     }
     /// <summary>
     /// Interface to implement callback methods for all input action callbacks associated with input actions defined by "Combat" which allows adding and removing callbacks.
