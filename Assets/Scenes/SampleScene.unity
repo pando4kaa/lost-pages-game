@@ -15507,11 +15507,11 @@ Transform:
   m_GameObject: {fileID: 606829322}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.1454242, y: 0.13557705, z: 0.12395782}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1592943450}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &606829324
 AudioSource:
@@ -15639,6 +15639,29 @@ MonoBehaviour:
   - name: Chest
     audioClips:
     - {fileID: 8300000, guid: 02a6c8a4e4c7b8e48bf11bc329cf07aa, type: 3}
+  - name: Footstep
+    audioClips:
+    - {fileID: 8300000, guid: e1cf81f5a04ccb54ea9516f1f363b06a, type: 3}
+    - {fileID: 8300000, guid: 702e53299e0c90a42b7cf437db8701d6, type: 3}
+    - {fileID: 8300000, guid: 8060ece1d39ef174fb1d8b22799a6e6f, type: 3}
+    - {fileID: 8300000, guid: 1ef76c488830b7240bb5ea3e8128344a, type: 3}
+    - {fileID: 8300000, guid: 30c13d1edec16c349874bed3536c0cdb, type: 3}
+    - {fileID: 8300000, guid: d7cbf19988efa0e448e184aaefcaa5c6, type: 3}
+    - {fileID: 8300000, guid: 02155321c39cbfd418d4ddebd60dc8bc, type: 3}
+    - {fileID: 8300000, guid: 89dd6749cdcfcdd40875e050682c7863, type: 3}
+    - {fileID: 8300000, guid: a0eff565ccd93c842aa6ab62f7c4726a, type: 3}
+    - {fileID: 8300000, guid: 6adfa50aa6e8b8547b69b3fee937c0be, type: 3}
+    - {fileID: 8300000, guid: 1593793b6e5de3340a66a99f14ab83c2, type: 3}
+    - {fileID: 8300000, guid: 5358ca9de0d39d14484f10637de1963e, type: 3}
+    - {fileID: 8300000, guid: eb22db9a19a140a4181ed43df735b479, type: 3}
+    - {fileID: 8300000, guid: 8db5fdd1e0f346e4db570ddd217eafe2, type: 3}
+    - {fileID: 8300000, guid: 611f4bb0830dae649b56d605bf119912, type: 3}
+    - {fileID: 8300000, guid: ca4fe658e75180a408c387f3e0670f52, type: 3}
+    - {fileID: 8300000, guid: 985a4aa251c886f4b910544aba442806, type: 3}
+    - {fileID: 8300000, guid: c2c2c272f64746247886b43508c89117, type: 3}
+    - {fileID: 8300000, guid: 8975db394a05e684aa7c87e1fec896b6, type: 3}
+    - {fileID: 8300000, guid: a60e2a8287f0ac94d8feaec23c42093e, type: 3}
+    - {fileID: 8300000, guid: 92959ebd62d85b14a95c3b09c846d7a0, type: 3}
 --- !u!1 &610973605
 GameObject:
   m_ObjectHideFlags: 0
@@ -23535,6 +23558,7 @@ Transform:
   - {fileID: 1096765000}
   - {fileID: 1780067041}
   - {fileID: 283695292}
+  - {fileID: 606829323}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1592943451
@@ -24164,6 +24188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _movingSpeed: 5
+  _footstepSpeed: 0.5
 --- !u!70 &1959033108
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -25583,7 +25608,6 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 1664354840}
   - {fileID: 610973606}
-  - {fileID: 606829323}
   - {fileID: 1592943450}
   - {fileID: 523678574}
   - {fileID: 558797500}
