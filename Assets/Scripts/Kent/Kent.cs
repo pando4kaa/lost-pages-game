@@ -48,6 +48,12 @@ public class Kent : MonoBehaviour
 
     private void HandleMovement()
     {
+        if (PauseController.IsGamePaused)
+        {
+            _rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
         // Використовуємо Velocity замість MovePosition для більш плавного руху
         _rb.linearVelocity = inputVector * _movingSpeed;
 
