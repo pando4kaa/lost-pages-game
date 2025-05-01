@@ -27,6 +27,8 @@ public class MapTransation : MonoBehaviour
         {
             confiner.m_BoundingShape2D = mapBounds;
             UpdateKentPosition(collision.gameObject);
+
+            MapController_Manual.Instance?.HighlightArea(mapBounds.name);
         }
     }
 
