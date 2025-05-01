@@ -29,6 +29,7 @@ public class MapTransation : MonoBehaviour
             UpdateKentPosition(collision.gameObject);
 
             MapController_Manual.Instance?.HighlightArea(mapBounds.name);
+            MapController_Dynamic.Instance?.UpdateCurrentArea(mapBounds.name);
         }
     }
 

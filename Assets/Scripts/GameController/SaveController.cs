@@ -1,5 +1,7 @@
-using System.IO;
 using Cinemachine;
+using System.Collections;
+using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 
 public class SaveController : MonoBehaviour
@@ -12,6 +14,7 @@ public class SaveController : MonoBehaviour
         saveLocation = Path.Combine(Application.persistentDataPath, "saveData.json");
         inventoryController = FindObjectOfType<InventoryController>();
         hotbarController = FindObjectOfType<HotbarController>();
+
         LoadGame();
     }
 
@@ -33,11 +36,14 @@ public class SaveController : MonoBehaviour
         if (File.Exists(saveLocation))
         {
             SaveData saveData = JsonUtility.FromJson<SaveData>(File.ReadAllText(saveLocation));
+
             GameObject.FindGameObjectWithTag("Kent").transform.position = saveData.kentPosition;
-            FindObjectOfType<CinemachineConfiner>().m_BoundingShape2D = GameObject.Find(saveData.mapBoundary).GetComponent<PolygonCollider2D>();
+
+            PolygonCollider2D savedMapBoundry = GameObject.Find(saveData.mapBoundary).GetComponent<PolygonCollider2D>();
+            FindObjectOfType<CinemachineConfiner>().m_BoundingShape2D = savedMapBoundry;
 
             MapController_Manual.Instance?.HighlightArea(saveData.mapBoundary);
-
+            MapController_Dynamic.Instance?.GenerateMap(savedMapBoundry);
 
             inventoryController.SetInventoryItems(saveData.inventorySaveData);
             hotbarController.SetHotbarItems(saveData.hotbarSaveData);
@@ -45,6 +51,9 @@ public class SaveController : MonoBehaviour
         else
         {
             SaveGame();
+            
+            MapController_Dynamic.Instance?.GenerateMap();
+
         }
     }
 }
