@@ -81,6 +81,14 @@ public class SoundEffectManager : MonoBehaviour
         voiceAudioSource.PlayOneShot(clip);
     }
 
+    public static void StopVoice()
+    {
+        if (voiceAudioSource != null)
+        {
+            voiceAudioSource.Stop();
+        }
+    }
+
     // Start is called before the first frame update
     void Start()
     {

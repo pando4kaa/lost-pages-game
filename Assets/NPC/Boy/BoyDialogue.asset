@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d948cc1a7ce7a954fb5fc7fe7d188f76, type: 3}
-  m_Name: BoyNPCDialogue
+  m_Name: BoyDialogue
   m_EditorClassIdentifier: 
   npcName: Danny
   npcPortrait: {fileID: 21300000, guid: 8d68540d4ca3c004692e5ca82e7c0d8d, type: 3}
   dialogueLines:
-  - "Hello there! I\u2019m Ben, the little village helper. I run small errands and
-    keep an eye on our fences."
+  - "Hello there! I\u2019m Danny, the little village helper. I run small errands
+    and keep an eye on our fences."
   - This settlement is surrounded by two wooden fences to keep us safe.
   - "Inside these walls live exactly three slimes\u2014mischievous, bouncy creatures
     I\u2019ve watched grow up"

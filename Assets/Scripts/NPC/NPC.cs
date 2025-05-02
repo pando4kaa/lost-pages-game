@@ -14,6 +14,17 @@ public class NPC : MonoBehaviour, IInteractable
     private int dialogueIndex;
     private bool isTyping, isDialogueActive;
 
+    private void Update()
+    {
+        // Force end dialogue if the panel is closed externally
+        if (isDialogueActive && !dialoguePanel.activeSelf)
+        {
+            // We dont call PauseController.SetPause(false) here 
+            // because the external mechanism likely already handled unpausing.
+            ForceEndDialogueCleanup();
+        }
+    }
+
     public bool CanInteract()
     {
         return !isDialogueActive;
@@ -93,9 +104,20 @@ public class NPC : MonoBehaviour, IInteractable
     public void EndDialogue()
     {
         StopAllCoroutines();
+        SoundEffectManager.StopVoice();
         isDialogueActive = false;
         dialogueText.SetText("");
         dialoguePanel.SetActive(false);
         PauseController.SetPause(false);
+    }
+
+    // Ends dialogue without affecting the pause state (for external closing)
+    private void ForceEndDialogueCleanup()
+    {
+        StopAllCoroutines();
+        SoundEffectManager.StopVoice();
+        isDialogueActive = false;
+        // Don't modify dialogueText or dialoguePanel activation here,
+        // as they were likely already handled externally.
     }
 }
