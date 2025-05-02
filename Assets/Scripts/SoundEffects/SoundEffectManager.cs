@@ -9,6 +9,7 @@ public class SoundEffectManager : MonoBehaviour
 
     private static AudioSource audioSource;
     private static AudioSource randomPitchAudioSource;
+    private static AudioSource voiceAudioSource;
     private static SoundEffectLibrary soundEffectLibrary;
     [SerializeField] private Slider sfxSlider;
 
@@ -24,18 +25,28 @@ public class SoundEffectManager : MonoBehaviour
             {
                 audioSource = gameObject.AddComponent<AudioSource>();
                 randomPitchAudioSource = gameObject.AddComponent<AudioSource>();
+                voiceAudioSource = gameObject.AddComponent<AudioSource>();
             }
-            // Якщо є один AudioSource, додаємо другий
+            // Якщо є один AudioSource, додаємо другий і третій
             else if (audioSources.Length == 1)
             {
                 audioSource = audioSources[0];
                 randomPitchAudioSource = gameObject.AddComponent<AudioSource>();
+                voiceAudioSource = gameObject.AddComponent<AudioSource>();
             }
-            // Якщо є два або більше AudioSource
+            // Якщо є два AudioSource, додаємо третій
+            else if (audioSources.Length == 2)
+            {
+                audioSource = audioSources[0];
+                randomPitchAudioSource = audioSources[1];
+                voiceAudioSource = gameObject.AddComponent<AudioSource>();
+            }
+            // Якщо є три або більше AudioSource
             else
             {
                 audioSource = audioSources[0];
                 randomPitchAudioSource = audioSources[1];
+                voiceAudioSource = audioSources[2];
             }
 
             soundEffectLibrary = GetComponent<SoundEffectLibrary>();
@@ -63,6 +74,13 @@ public class SoundEffectManager : MonoBehaviour
         }
     }
 
+    public static void PlayVoice(AudioClip clip, float pitch = 1f)
+    {
+        if (clip == null) return;
+        voiceAudioSource.pitch = pitch;
+        voiceAudioSource.PlayOneShot(clip);
+    }
+
     // Start is called before the first frame update
     void Start()
     {
@@ -73,6 +91,7 @@ public class SoundEffectManager : MonoBehaviour
     {
         audioSource.volume = volume;
         randomPitchAudioSource.volume = volume;
+        voiceAudioSource.volume = volume;
     }
 
     public void OnValueChanged()
