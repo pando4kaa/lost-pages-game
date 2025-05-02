@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d948cc1a7ce7a954fb5fc7fe7d188f76, type: 3}
+  m_Name: PigNPCDialogue
+  m_EditorClassIdentifier: 
+  npcName: Pig Andrew Smooth
+  npcPortrait: {fileID: 21300000, guid: f131e35de40d0e74db09f490afea4897, type: 3}
+  dialogueLines:
+  - Halt! Who goes there?
+  - "Oh, it\u2019s just you. Welcome to the edge of the forest."
+  - My name is Andrew Smooth, and I guard these woods.
+  - If you plan to enter the forest, you must be careful.
+  - "There are many creatures living among the trees\u2014some are friendly, but
+    others\u2026 not so much."
+  - If you ever feel in danger, come back to the village quickly.
+  - 'Good luck, and remember: the forest is beautiful, but it can also be dangerous.'
+  autoProgressLines: 01010101010101
+  autoProgressDelay: 1.5
+  typingSpeed: 0.07
+  voiceSound: {fileID: 8300000, guid: 800dc465c195c6b4d86e0cd3e434bf84, type: 3}
+  voicePitch: 0.54

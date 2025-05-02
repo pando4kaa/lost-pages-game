@@ -98,7 +98,7 @@ SortingGroup:
   m_GameObject: {fileID: 3863894207661910925}
   m_Enabled: 1
   m_SortingLayerID: 910757901
-  m_SortingLayer: 1
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_SortAtRoot: 0
 --- !u!95 &8226864161887947167
@@ -136,6 +136,7 @@ GameObject:
   - component: {fileID: 3495037478649616623}
   - component: {fileID: 3192297230168483027}
   - component: {fileID: 2716473746299389907}
+  - component: {fileID: 7718701129981830499}
   m_Layer: 0
   m_Name: SlimeZombie
   m_TagString: Untagged
@@ -256,7 +257,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d2e063b58bb6db479f17ce4a9362ba0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingState: 1
-  roamingDistanceMax: 7
-  roamingDistanceMin: 3
-  roamingTimerMax: 2
+  _startingState: 0
+  _roamingDistanceMax: 7
+  _roamingDistanceMin: 3
+  _roamingTimerMax: 2
+--- !u!114 &7718701129981830499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5288360314413685160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdc176d4c314b044eb7a2670eb470cb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _maxHealth: 3

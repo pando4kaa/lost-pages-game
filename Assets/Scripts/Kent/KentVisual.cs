@@ -42,6 +42,11 @@ public class KentVisual : MonoBehaviour
         animator.SetTrigger(TRIGGER_ATTACK);
     }
 
+    public void TriggerEndAttackAnimation()
+    {
+        Kent.Instance.EndAttack();
+    }
+
     private void UpdateFacingDirection()
     {
         bool shouldFlip = !Kent.Instance.IsFacingRight();
@@ -50,5 +55,7 @@ public class KentVisual : MonoBehaviour
         _bodyRenderer.flipX = shouldFlip;
         _hairRenderer.flipX = shouldFlip;
         _handRenderer.flipX = shouldFlip;
+        // Фліпаємо колайдер атаки разом зі спрайтом
+        Kent.Instance.UpdateAttackColliderDirection(Kent.Instance.IsFacingRight());
     }
 }
