@@ -24,7 +24,7 @@ MonoBehaviour:
   - If you ever feel in danger, come back to the village quickly.
   - 'Good luck, and remember: the forest is beautiful, but it can also be dangerous.'
   autoProgressLines: 01010101010101
-  autoProgressDelay: 1.5
-  typingSpeed: 0.07
-  voiceSound: {fileID: 8300000, guid: 800dc465c195c6b4d86e0cd3e434bf84, type: 3}
-  voicePitch: 0.54
+  autoProgressDelay: 1.07
+  typingSpeed: 0.2
+  voiceSound: {fileID: 8300000, guid: 3634e1ccbf0be2c42829eef74cb70829, type: 3}
+  voicePitch: 0.92

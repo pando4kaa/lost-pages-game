@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d948cc1a7ce7a954fb5fc7fe7d188f76, type: 3}
+  m_Name: BoyNPCDialogue
+  m_EditorClassIdentifier: 
+  npcName: Danny
+  npcPortrait: {fileID: 21300000, guid: 8d68540d4ca3c004692e5ca82e7c0d8d, type: 3}
+  dialogueLines:
+  - "Hello there! I\u2019m Ben, the little village helper. I run small errands and
+    keep an eye on our fences."
+  - This settlement is surrounded by two wooden fences to keep us safe.
+  - "Inside these walls live exactly three slimes\u2014mischievous, bouncy creatures
+    I\u2019ve watched grow up"
+  - Those slimes usually hide in the nearby forest.
+  - "If you wander too close, they\u2019ll start chasing you\u2014trust me, they
+    deal nasty damage with their gooey attacks!"
+  - "Stay alert in the woods, and if you spot those green blobs, don\u2019t let them
+    surround you!"
+  autoProgressLines: 010101010101
+  autoProgressDelay: 1.5
+  typingSpeed: 0.03
+  voiceSound: {fileID: 8300000, guid: 800dc465c195c6b4d86e0cd3e434bf84, type: 3}
+  voicePitch: 1.79
