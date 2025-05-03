@@ -32,7 +32,7 @@ public class WaypointMover : MonoBehaviour
     {
         if(PauseController.IsGamePaused || isWaiting)
         {
-            animator.SetBool("isWalking", false);
+            animator.SetBool("IsWalking", false);
             animator.SetFloat("LastInputX", lastInputX);
             animator.SetFloat("LastInputY", lastInputY);
             return;
@@ -55,7 +55,7 @@ public class WaypointMover : MonoBehaviour
         transform.position = Vector2.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
         animator.SetFloat("InputX", direction.x);
         animator.SetFloat("InputY", direction.y);
-        animator.SetBool("isWalking", direction.magnitude > 0f);
+        animator.SetBool("IsWalking", direction.magnitude > 0f);
 
         if(Vector2.Distance(transform.position, target.position) < 0.1f)
         {
@@ -66,7 +66,7 @@ public class WaypointMover : MonoBehaviour
     IEnumerator WaitAtWaypoint()
     {
         isWaiting = true;
-        animator.SetBool("isWalking", false);
+        animator.SetBool("IsWalking", false);
 
         animator.SetFloat("LastInputX", lastInputX);
         animator.SetFloat("LastInputY", lastInputY);
