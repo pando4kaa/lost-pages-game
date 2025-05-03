@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3755631619579729602}
   - component: {fileID: 7741764599427110647}
   - component: {fileID: 8226864161887947167}
+  - component: {fileID: 789335696098365577}
   m_Layer: 0
   m_Name: SlimeZombieVisual
   m_TagString: Untagged
@@ -123,6 +124,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &789335696098365577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3863894207661910925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0befbbd8d23f21444a5b8e166175d5bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _enemyAI: {fileID: 2716473746299389907}
 --- !u!1 &5288360314413685160
 GameObject:
   m_ObjectHideFlags: 0
@@ -257,10 +271,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d2e063b58bb6db479f17ce4a9362ba0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _startingState: 0
+  _startingState: 1
   _roamingDistanceMax: 7
   _roamingDistanceMin: 3
-  _roamingTimerMax: 2
+  _roamingTimerMax: 5
+  _isChasingEnemy: 1
+  _chasingDistance: 4
+  _chasingSpeedMultiplier: 2
+  _isAttackingEnemy: 0
+  _attackingDistance: 2
+  _attackRate: 2
+  _player: {fileID: 0}
 --- !u!114 &7718701129981830499
 MonoBehaviour:
   m_ObjectHideFlags: 0
