@@ -15,12 +15,25 @@ MonoBehaviour:
   npcName: Jack
   npcPortrait: {fileID: 21300000, guid: 81a02f34a48c06e469238c5eab6d3348, type: 3}
   dialogueLines:
-  - Ahoy there, young one! I once sailed the vast and wild seas.
-  - The ocean taught me many lessons, some sweet, some bitter.
-  - Now I spend my days in this quiet village, but my heart still longs for adventure.
-  - Soon, I might need your help with something important from my past.
-  autoProgressLines: 01010101
+  - Ahoy there, young one! Folks call me Jack. Care for a tale about this valley?
+  - Wise choice! This valley... it holds secrets. The Whisperwood nearby is teeming
+    with creatures unlike any you've seen.
+  - Reminds me of the strange beasts I saw sailing the Seven Seas back in my day.
+    Many moons ago, that was.
+  - Fair enough, adventurer. May your path be clear and your journey fruitful. Good
+    luck!
+  autoProgressLines: 00010101
+  endDialogueLines: 00000101
   autoProgressDelay: 1.5
   typingSpeed: 0.04
   voiceSound: {fileID: 8300000, guid: 800dc465c195c6b4d86e0cd3e434bf84, type: 3}
   voicePitch: 0.85
+  choices:
+  - dialogueIndex: 0
+    choices:
+    - Sure, tell me.
+    - Maybe later.
+    nextDialogueIndexes: 0100000003000000
+  - dialogueIndex: 0
+    choices: []
+    nextDialogueIndexes: 
