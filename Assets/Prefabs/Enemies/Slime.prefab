@@ -154,6 +154,7 @@ GameObject:
   - component: {fileID: 6032971991102848519}
   - component: {fileID: 4153899047569314962}
   - component: {fileID: 5705587302294609371}
+  - component: {fileID: 5654315974936506179}
   m_Layer: 0
   m_Name: Slime
   m_TagString: Untagged
@@ -398,3 +399,17 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.94113195, y: 0.9093157}
   m_EdgeRadius: 0
+--- !u!114 &5654315974936506179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 389963809915431623}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff7485191229d4e44a8e34ea32585938, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _knockBackForce: 6
+  _knockBackMovingTimerMax: 0.3

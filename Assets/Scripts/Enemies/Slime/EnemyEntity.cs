@@ -4,6 +4,8 @@ using UnityEngine;
 [RequireComponent(typeof(PolygonCollider2D))]
 [RequireComponent(typeof(BoxCollider2D))]
 [RequireComponent(typeof(EnemyAI))]
+[RequireComponent(typeof(Rigidbody2D))]
+[RequireComponent(typeof(KnockBack))]
 public class EnemyEntity : MonoBehaviour
 {
     [SerializeField] private EnemySO _enemySO;
@@ -17,6 +19,7 @@ public class EnemyEntity : MonoBehaviour
     private PolygonCollider2D _polygonCollider2D;
     private BoxCollider2D _boxCollider2D;
     private EnemyAI _enemyAI;
+    private KnockBack _knockBack;
 
     private bool _isDead = false;
 
@@ -25,6 +28,7 @@ public class EnemyEntity : MonoBehaviour
         _polygonCollider2D = GetComponent<PolygonCollider2D>();
         _boxCollider2D = GetComponent<BoxCollider2D>();
         _enemyAI = GetComponent<EnemyAI>();
+        _knockBack = GetComponent<KnockBack>();
     }
 
     private void Start()
@@ -32,9 +36,15 @@ public class EnemyEntity : MonoBehaviour
         _currentHealth = _enemySO.enemyHealth;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerStay2D(Collider2D collision)
     {
-        Debug.Log($"[EnemyEntity] OnTriggerEnter2D: {collision.gameObject.name}");
+        // Only deal damage if Slime is in attacking state
+        if (_enemyAI == null || !_enemyAI.IsInAttackState)
+            return;
+        if (collision.transform.TryGetComponent(out Kent kent))
+        {
+            kent.TakeDamage(transform, _enemySO.enemyDamageAmount);
+        }
     }
 
     public void TakeDamage(int damage)
@@ -43,6 +53,10 @@ public class EnemyEntity : MonoBehaviour
         Debug.Log($"[EnemyEntity] TakeDamage called. Damage: {damage}, CurrentHealth before: {_currentHealth}, Enemy: {gameObject.name}");
         _currentHealth = Mathf.Max(0, _currentHealth - damage);
         OnTakeHit?.Invoke(this, EventArgs.Empty);
+        if (_knockBack != null && Kent.Instance != null)
+        {
+            _knockBack.GetKnockedBack(Kent.Instance.transform);
+        }
         DetectDeath();
     }
 

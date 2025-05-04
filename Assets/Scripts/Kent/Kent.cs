@@ -10,6 +10,8 @@ public class Kent : MonoBehaviour
     Vector2 inputVector;
 
     private Rigidbody2D _rb;
+    private KnockBack _knockBack;
+
     private float _minMovingSpeed = 0.1f;
     private bool _isRunning = false;
     private Vector2 _lastMovementDirection;
@@ -29,6 +31,7 @@ public class Kent : MonoBehaviour
         _kentVisual = GetComponentInChildren<KentVisual>();
         _attackCollider = GetComponent<PolygonCollider2D>();
         _originalAttackPath = _attackCollider.GetPath(0);
+        _knockBack = GetComponent<KnockBack>();
     }
 
     private void Start()
@@ -57,8 +60,19 @@ public class Kent : MonoBehaviour
         HandleFootsteps();
     }
 
+    public void TakeDamage(Transform damageSource, int damage)
+    {
+        _kentVisual.PlayHurtAnimation();
+        _knockBack.GetKnockedBack(damageSource);
+        EndAttack();
+    }
     private void HandleMovement()
     {
+        // Skip movement override when knockback is active
+        if (_knockBack != null && _knockBack.IsGettingKnockedBack)
+        {
+            return;
+        }
         if (PauseController.IsGamePaused || _isAttacking)
         {
             _rb.linearVelocity = Vector2.zero;

@@ -7,6 +7,7 @@ public class SlimeVisual : MonoBehaviour
 {
     [SerializeField] private EnemyAI _enemyAI;
     [SerializeField] private EnemyEntity _enemyEntity;
+    [SerializeField] private float _attackColliderDuration = 0.2f;  // duration collider is active during attack
 
     private Animator _animator;
 
@@ -26,9 +27,15 @@ public class SlimeVisual : MonoBehaviour
 
     private void Start()
     {
-        _enemyAI.OnEnemyAttack += _enemyAI_OnEnemyAttack;
-        _enemyEntity.OnTakeHit += _enemyEntity_OnTakeHit;
-        _enemyEntity.OnDeath += _enemyEntity_OnDeath;
+        if (_enemyAI != null)
+            _enemyAI.OnEnemyAttack += _enemyAI_OnEnemyAttack;
+        if (_enemyEntity != null)
+        {
+            // disable collider by default
+            _enemyEntity.PolygonColliderTurnOff();
+            _enemyEntity.OnTakeHit += _enemyEntity_OnTakeHit;
+            _enemyEntity.OnDeath += _enemyEntity_OnDeath;
+        }
     }
 
     private void _enemyEntity_OnDeath(object sender, System.EventArgs e)
@@ -44,7 +51,8 @@ public class SlimeVisual : MonoBehaviour
 
     private void OnDestroy()
     {
-        _enemyAI.OnEnemyAttack -= _enemyAI_OnEnemyAttack;
+        if (_enemyAI != null)
+            _enemyAI.OnEnemyAttack -= _enemyAI_OnEnemyAttack;
     }
 
     private void Update()
@@ -66,5 +74,9 @@ public class SlimeVisual : MonoBehaviour
     private void _enemyAI_OnEnemyAttack(object sender, System.EventArgs e)
     {
         _animator.SetTrigger(ATTACK);
+        // enable attack collider for a short duration
+        TriggerAttackAnimationTurnOn();
+        CancelInvoke(nameof(TriggerAttackAnimationTurnOff));
+        Invoke(nameof(TriggerAttackAnimationTurnOff), _attackColliderDuration);
     }
 }

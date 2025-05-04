@@ -61,6 +61,11 @@ public class EnemyAI : MonoBehaviour
         Death
     }
 
+    /// <summary>
+    /// Returns true if AI is currently in attacking state.
+    /// </summary>
+    public bool IsInAttackState => _currentState == State.Attacking;
+
     private void Awake()
     {
         _navMeshAgent = GetComponent<NavMeshAgent>();

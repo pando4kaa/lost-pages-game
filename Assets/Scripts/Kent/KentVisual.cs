@@ -11,6 +11,7 @@ public class KentVisual : MonoBehaviour
 
     private const string IS_RUNNING = "IsRunning";
     private const string TRIGGER_ATTACK = "Attack";
+    private const string HURT = "Hurt";
 
 
     private void Awake()
@@ -40,6 +41,14 @@ public class KentVisual : MonoBehaviour
     public void PlayAttackAnimation()
     {
         animator.SetTrigger(TRIGGER_ATTACK);
+    }
+
+    /// <summary>
+    /// Triggers hurt animation when Kent takes damage.
+    /// </summary>
+    public void PlayHurtAnimation()
+    {
+        animator.SetTrigger(HURT);
     }
 
     public void TriggerEndAttackAnimation()
