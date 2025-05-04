@@ -1,35 +1,48 @@
-using System.Collections;
-using System.Collections.Generic;
+using System;
 using UnityEngine;
 
 [RequireComponent(typeof(PolygonCollider2D))]
+[RequireComponent(typeof(BoxCollider2D))]
+[RequireComponent(typeof(EnemyAI))]
 public class EnemyEntity : MonoBehaviour
 {
+    [SerializeField] private EnemySO _enemySO;
 
-    [SerializeField] private int _maxHealth;
+    public event EventHandler OnTakeHit;
+    public event EventHandler OnDeath;
+
+    //[SerializeField] private int _maxHealth;
     private int _currentHealth;
 
     private PolygonCollider2D _polygonCollider2D;
+    private BoxCollider2D _boxCollider2D;
+    private EnemyAI _enemyAI;
+
+    private bool _isDead = false;
 
     private void Awake()
     {
         _polygonCollider2D = GetComponent<PolygonCollider2D>();
+        _boxCollider2D = GetComponent<BoxCollider2D>();
+        _enemyAI = GetComponent<EnemyAI>();
     }
 
     private void Start()
     {
-        _currentHealth = _maxHealth;
+        _currentHealth = _enemySO.enemyHealth;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Attack");
+        Debug.Log($"[EnemyEntity] OnTriggerEnter2D: {collision.gameObject.name}");
     }
 
     public void TakeDamage(int damage)
     {
-        _currentHealth -= damage;
-
+        if (_isDead) return;
+        Debug.Log($"[EnemyEntity] TakeDamage called. Damage: {damage}, CurrentHealth before: {_currentHealth}, Enemy: {gameObject.name}");
+        _currentHealth = Mathf.Max(0, _currentHealth - damage);
+        OnTakeHit?.Invoke(this, EventArgs.Empty);
         DetectDeath();
     }
 
@@ -45,9 +58,17 @@ public class EnemyEntity : MonoBehaviour
 
     private void DetectDeath()
     {
-        if (_currentHealth <= 0)
+        Debug.Log($"[EnemyEntity] DetectDeath called. CurrentHealth: {_currentHealth}, Enemy: {gameObject.name}");
+        if (_currentHealth <= 0 && !_isDead)
         {
-            Destroy(gameObject);
+            _isDead = true;
+            Debug.Log($"[EnemyEntity] Enemy died: {gameObject.name}");
+            _boxCollider2D.enabled = false;
+            _polygonCollider2D.enabled = false;
+
+            _enemyAI.SetDeathState();
+
+            OnDeath?.Invoke(this, EventArgs.Empty);
         }
     }
 

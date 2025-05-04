@@ -134,9 +134,12 @@ public class Kent : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log($"[Kent] OnTriggerEnter2D: {other.gameObject.name}, IsAttacking: {_isAttacking}, AttackCollider enabled: {_attackCollider.enabled}");
         if (other.transform.TryGetComponent(out EnemyEntity enemy) && _isAttacking && _attackCollider.enabled)
         {
+            Debug.Log($"[Kent] Dealing damage to: {enemy.gameObject.name}");
             enemy.TakeDamage(_damage);
+            AttackColliderTurnOff();
         }
     }
 

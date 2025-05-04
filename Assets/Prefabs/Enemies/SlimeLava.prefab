@@ -137,6 +137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _enemyAI: {fileID: 8134348744929205135}
+  _enemyEntity: {fileID: 7554893655758562749}
 --- !u!1 &8789409722350399591
 GameObject:
   m_ObjectHideFlags: 0
@@ -151,6 +152,8 @@ GameObject:
   - component: {fileID: 7722799142029564740}
   - component: {fileID: 8134348744929205135}
   - component: {fileID: 7554893655758562749}
+  - component: {fileID: 7815327662960643671}
+  - component: {fileID: 6327539460351098204}
   m_Layer: 0
   m_Name: SlimeLava
   m_TagString: Untagged
@@ -235,8 +238,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.02929151, y: 0.35150313}
-  m_Radius: 0.52278244
+  m_Offset: {x: 0.02929151, y: 0.35304904}
+  m_Radius: 0.45785484
 --- !u!195 &7722799142029564740
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -273,15 +276,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _startingState: 1
   _roamingDistanceMax: 7
-  _roamingDistanceMin: 3
-  _roamingTimerMax: 5
+  _roamimgDistanceMin: 3
+  _roamimgTimerMax: 2
   _isChasingEnemy: 1
   _chasingDistance: 4
   _chasingSpeedMultiplier: 2
   _isAttackingEnemy: 1
   _attackingDistance: 2
   _attackRate: 2
-  _player: {fileID: 0}
 --- !u!114 &7554893655758562749
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -294,4 +296,106 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdc176d4c314b044eb7a2670eb470cb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxHealth: 8
+  _enemySO: {fileID: 11400000, guid: b4d42918c740e884ab4d3925aabf62f5, type: 2}
+--- !u!60 &7815327662960643671
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8789409722350399591}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.027402103, y: 0.16149569}
+      - {x: -0.85788953, y: 0.14460418}
+      - {x: -1.2172978, y: -0.2574293}
+      - {x: -1.1981188, y: -0.786608}
+      - {x: -0.571344, y: -1.0063119}
+      - {x: 0.75219744, y: -1.017273}
+      - {x: 1.3052632, y: -0.7973599}
+      - {x: 1.3518678, y: -0.27213547}
+      - {x: 1.0168216, y: 0.12816307}
+  m_UseDelaunayMesh: 0
+--- !u!61 &6327539460351098204
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8789409722350399591}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.017188042, y: 0.37469947}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.9656239, y: 0.92437243}
+  m_EdgeRadius: 0
