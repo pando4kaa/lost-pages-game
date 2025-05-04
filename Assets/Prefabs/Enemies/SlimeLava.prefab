@@ -278,7 +278,7 @@ MonoBehaviour:
   _isChasingEnemy: 1
   _chasingDistance: 4
   _chasingSpeedMultiplier: 2
-  _isAttackingEnemy: 0
+  _isAttackingEnemy: 1
   _attackingDistance: 2
   _attackRate: 2
   _player: {fileID: 0}

@@ -136,7 +136,7 @@ public class Kent : MonoBehaviour
     {
         if (other.transform.TryGetComponent(out EnemyEntity enemy) && _isAttacking && _attackCollider.enabled)
         {
-            enemy.Damage(_damage);
+            enemy.TakeDamage(_damage);
         }
     }
 
